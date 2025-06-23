@@ -1,7 +1,7 @@
 --feather icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util
 --more icons here https://icon-sets.iconify.design/material-symbols/?icon-filter=note
 --more icons here https://www.svgrepo.com/vectors/gui/2
---made by itjose4 Dc
+--made by Nukis/Bah Dc
 
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
